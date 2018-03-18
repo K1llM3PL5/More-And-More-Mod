@@ -1,0 +1,16 @@
+[
+{
+  "modid": "mm",
+  "name": "More And More Mod",
+  "description": "A mod that adds a couple of items for a better survival adventure.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["K1ll"],
+  "credits": "To GriffusGC",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

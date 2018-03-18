@@ -1,0 +1,6 @@
+{
+    "variants": 
+    {
+        "variant=platinum": { "model": "mm:ore_overworld_platinum" }
+    }
+}

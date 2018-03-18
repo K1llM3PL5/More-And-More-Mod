@@ -1,0 +1,16 @@
+item.ingot_un_platinum.name=Unstable Platinum Ingot
+item.shard_diamond.name=Diamond Shard
+item.ingot_platinum.name=Platinum Ingot
+
+item.sword_platinum.name=Platinum Sword
+item.hoe_platinum.name=Platinum Hoe
+item.axe_platinum.name=Platinum Axe
+item.pickaxe_platinum.name=Platinum Pickaxe
+item.shovel_platinum.name=Platinum Shovel
+
+item.helmet_platinum.name=Platinum Helmet
+item.chestplate_platinum.name=Platinum Chestplate
+item.leggings_platinum.name=Platinum Leggings
+item.boots_platinum.name=Platinum Boots
+
+tile.ore_overworld_platinum.name=Platinum Ore
